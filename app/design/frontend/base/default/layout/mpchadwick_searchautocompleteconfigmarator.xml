@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<layout>
+    <default>
+        <reference name="head">
+            <action method="addItem" ifconfig="catalog/search/disable_autocomplete">
+                <type>skin_js</type>
+                <name>js/mpchadwick_searchautocompleteconfigmarator/disabler.js</name>
+            </action>
+        </reference>
+    </default>
+</layout>

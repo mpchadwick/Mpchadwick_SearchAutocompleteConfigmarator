@@ -1,0 +1,5 @@
+<?php
+
+class Mpchadwick_SearchAutocompleteConfigmarator_Model_Resource_Query extends Mage_CatalogSearch_Model_Resource_Query
+{
+}
