@@ -1,0 +1,5 @@
+# Mpchadwick_SearchAutocompleteConfigmarator
+app/code/community/Mpchadwick/SearchAutocompleteConfigmarator                                app/code/community/Mpchadwick/SearchAutocompleteConfigmarator
+app/design/frontend/base/default/layout/mpchadwick_searchautocompleteconfigmarator.xml       app/design/frontend/base/default/layout/mpchadwick_searchautocompleteconfigmarator.xml
+app/etc/modules/Mpchadwick_SearchAutocompleteConfiguration.xml                               app/etc/modules/Mpchadwick_SearchAutocompleteConfiguration.xml
+skin/frontend/base/default/js/mpchadwick_searchautocompleteconfigmarator					 skin/frontend/base/default/js/mpchadwick_searchautocompleteconfigmarator
