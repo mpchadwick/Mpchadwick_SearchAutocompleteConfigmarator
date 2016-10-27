@@ -26,9 +26,9 @@
     <frontend>
         <layout>
             <updates>
-                <enterprise_search>
+                <mpchadwick_searchautocompleteconfigmarator>
                     <file>mpchadwick_searchautocompleteconfigmarator.xml</file>
-                </enterprise_search>
+                </mpchadwick_searchautocompleteconfigmarator>
             </updates>
         </layout>
     </frontend>
