@@ -26,10 +26,3 @@ Currently, the following items can be configured through Mpchadwick_SearchAutoco
 - Like Match (%term% vs. %term)
 
 These options can all be found under System > Configuration > Catalog > Catalog Search
-
-Additionally, the following items are under consideration.
-
-- [Delay between key up and AJAX request dispatch (throttle rate)](https://github.com/mpchadwick/Mpchadwick_SearchAutocompleteConfigmarator/issues/1)
-- [Highlight matched search term](https://github.com/mpchadwick/Mpchadwick_SearchAutocompleteConfigmarator/issues/2)
-
-Please give a thumbs up to the corresponding issue if it's something you'd like to see implemented. Also feel free to open an issue if there's something else you'd like to see implemented
